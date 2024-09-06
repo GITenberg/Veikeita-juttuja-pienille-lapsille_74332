@@ -1,0 +1,51 @@
+_repo: Veikeita-juttuja-pienille-lapsille_74332
+_version: 0.0.1
+alternative_title: Just so stories. Finnish
+contributor:
+  translator:
+    agent_name: Kivimies, Yrjö
+    alias: Kivimies, Yrjo
+    birthdate: 1899
+    deathdate: 1980
+    gutenberg_agent_id: '57447'
+    url: http://www.gutenberg.org/2009/agents/57447
+    wikipedia: https://fi.wikipedia.org/wiki/Yrj%C3%B6_Kivimies
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: https://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2024-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74332'
+language: fi
+pgterms:marc905: 20240801105711kipling
+pgterms:marc906: '1925'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Children''s stories, English'
+- !lcsh 'Animals -- Fiction'
+- !lcc 'PR'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Miten Valas sai nielunsa -- Miten Kameeli sai kyttyränsä -- Miten
+  Sarvikuono sai nahkansa -- Miten Leopardi sai täplänsä -- Norsunlapsi -- Renkutus
+  Vanhasta Kenguru-Ukkelista -- Vyötiäisen syntyminen -- Miten ensimmäinen kirje kirjoitettiin
+  -- Miten aapinen tehtiin -- Krapu, joka piti merta leikkinään -- Kissa, joka kulki
+  itsekseen -- Perhonen, joka polkaisi.
+title: Veikeitä juttuja pienille lapsille
+url: http://www.gutenberg.org/ebooks/74332
