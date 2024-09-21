@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '57447'
     url: http://www.gutenberg.org/2009/agents/57447
     wikipedia: https://fi.wikipedia.org/wiki/Yrj%C3%B6_Kivimies
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kipling, Rudyard
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/132
     wikipedia: https://en.wikipedia.org/wiki/Rudyard_Kipling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74332#Veikeita-juttuja-pienille-lapsille
 gutenberg_issued: '2024-08-29'
 gutenberg_type: Text
 identifiers:
